@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1412" alt="截屏2023-10-05 11 22 24" src="https://github.com/YUKIKAZE-nanoda/prisewise-clone/assets/56970573/4f0f8970-b88f-4437-8a17-0ea13c2c7437">This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 基于NextJS，Typescrip核TailWind的Amazon商品比价
+![Uploading 截屏2023-10-05 11.22.24.png…]<img width="1412" alt="截屏2023-10-05 11 22 47" src="https://github.com/YUKIKAZE-nanoda/prisewise-clone/assets/56970573/51bcff15-317c-4751-9e3e-433d15d83c80">
+()
 
 ## Getting Started
 
